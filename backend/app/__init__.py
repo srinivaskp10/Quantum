@@ -1,1 +1,0 @@
-# Sales Intelligence Platform Backend
